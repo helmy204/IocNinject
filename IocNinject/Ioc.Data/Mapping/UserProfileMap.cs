@@ -17,7 +17,7 @@ namespace Ioc.Data.Mapping
             // properties
             Property(t => t.FirstName).IsRequired().HasMaxLength(100).HasColumnType("nvarchar");
             Property(t => t.LastName).HasMaxLength(100).HasColumnType("nvarchar");
-            Property(t => t.AddedDate).HasColumnType("nvarchar");
+            Property(t => t.Address).HasColumnType("nvarchar");
             Property(t => t.AddedDate).IsRequired();
             Property(t => t.ModifiedDate).IsRequired();
             Property(t => t.IP);
