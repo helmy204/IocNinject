@@ -39,7 +39,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IUserService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Ioc.Core\Ioc.Core.csproj">
+      <Project>{dc88a293-46de-487b-bbba-dbe11071f94b}</Project>
+      <Name>Ioc.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ioc.Data\Ioc.Data.csproj">
+      <Project>{ebba843a-5856-486d-8a62-01bc7d9c3c32}</Project>
+      <Name>Ioc.Data</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
