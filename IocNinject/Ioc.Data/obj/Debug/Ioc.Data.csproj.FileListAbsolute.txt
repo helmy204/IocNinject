@@ -1,0 +1,12 @@
+D:\Work\Amitac\IocNinject\IocNinject\IocNinject\Ioc.Data\bin\Debug\Ioc.Data.dll.config
+D:\Work\Amitac\IocNinject\IocNinject\IocNinject\Ioc.Data\bin\Debug\Ioc.Data.dll
+D:\Work\Amitac\IocNinject\IocNinject\IocNinject\Ioc.Data\bin\Debug\Ioc.Data.pdb
+D:\Work\Amitac\IocNinject\IocNinject\IocNinject\Ioc.Data\bin\Debug\EntityFramework.dll
+D:\Work\Amitac\IocNinject\IocNinject\IocNinject\Ioc.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\Amitac\IocNinject\IocNinject\IocNinject\Ioc.Data\bin\Debug\Ioc.Core.dll
+D:\Work\Amitac\IocNinject\IocNinject\IocNinject\Ioc.Data\bin\Debug\Ioc.Core.pdb
+D:\Work\Amitac\IocNinject\IocNinject\IocNinject\Ioc.Data\bin\Debug\EntityFramework.xml
+D:\Work\Amitac\IocNinject\IocNinject\IocNinject\Ioc.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\Amitac\IocNinject\IocNinject\IocNinject\Ioc.Data\obj\Debug\Ioc.Data.csprojResolveAssemblyReference.cache
+D:\Work\Amitac\IocNinject\IocNinject\IocNinject\Ioc.Data\obj\Debug\Ioc.Data.dll
+D:\Work\Amitac\IocNinject\IocNinject\IocNinject\Ioc.Data\obj\Debug\Ioc.Data.pdb

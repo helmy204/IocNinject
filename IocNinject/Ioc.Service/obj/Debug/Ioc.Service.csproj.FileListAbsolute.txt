@@ -1,0 +1,11 @@
+D:\Work\Amitac\IocNinject\IocNinject\IocNinject\Ioc.Service\bin\Debug\Ioc.Service.dll
+D:\Work\Amitac\IocNinject\IocNinject\IocNinject\Ioc.Service\bin\Debug\Ioc.Service.pdb
+D:\Work\Amitac\IocNinject\IocNinject\IocNinject\Ioc.Service\bin\Debug\Ioc.Core.dll
+D:\Work\Amitac\IocNinject\IocNinject\IocNinject\Ioc.Service\bin\Debug\Ioc.Data.dll
+D:\Work\Amitac\IocNinject\IocNinject\IocNinject\Ioc.Service\bin\Debug\EntityFramework.dll
+D:\Work\Amitac\IocNinject\IocNinject\IocNinject\Ioc.Service\bin\Debug\Ioc.Core.pdb
+D:\Work\Amitac\IocNinject\IocNinject\IocNinject\Ioc.Service\bin\Debug\Ioc.Data.pdb
+D:\Work\Amitac\IocNinject\IocNinject\IocNinject\Ioc.Service\bin\Debug\EntityFramework.xml
+D:\Work\Amitac\IocNinject\IocNinject\IocNinject\Ioc.Service\obj\Debug\Ioc.Service.csprojResolveAssemblyReference.cache
+D:\Work\Amitac\IocNinject\IocNinject\IocNinject\Ioc.Service\obj\Debug\Ioc.Service.dll
+D:\Work\Amitac\IocNinject\IocNinject\IocNinject\Ioc.Service\obj\Debug\Ioc.Service.pdb

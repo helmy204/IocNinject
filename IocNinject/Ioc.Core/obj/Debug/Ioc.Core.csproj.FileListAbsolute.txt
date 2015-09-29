@@ -1,0 +1,5 @@
+D:\Work\Amitac\IocNinject\IocNinject\IocNinject\Ioc.Core\bin\Debug\Ioc.Core.dll
+D:\Work\Amitac\IocNinject\IocNinject\IocNinject\Ioc.Core\bin\Debug\Ioc.Core.pdb
+D:\Work\Amitac\IocNinject\IocNinject\IocNinject\Ioc.Core\obj\Debug\Ioc.Core.csprojResolveAssemblyReference.cache
+D:\Work\Amitac\IocNinject\IocNinject\IocNinject\Ioc.Core\obj\Debug\Ioc.Core.dll
+D:\Work\Amitac\IocNinject\IocNinject\IocNinject\Ioc.Core\obj\Debug\Ioc.Core.pdb
